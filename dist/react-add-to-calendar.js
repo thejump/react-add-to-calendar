@@ -289,7 +289,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	  displayItemIcons: _propTypes2.default.bool,
 	  optionsOpen: _propTypes2.default.bool,
 	  dropdownClass: _propTypes2.default.string,
-    color:_propTypes2.string,
+    color:_propTypes2.default.string,
 	  event: _propTypes2.default.shape({
 	    title: _propTypes2.default.string,
 	    description: _propTypes2.default.string,
